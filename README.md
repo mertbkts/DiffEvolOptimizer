@@ -1,2 +1,2 @@
 # Differential evolution based optimization
-Differential evolution based optimization code in Python
+Optimizing single-objective functions and comparing the results with scipy's optimize function.
