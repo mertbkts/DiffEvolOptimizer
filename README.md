@@ -1,2 +1,2 @@
-# DiffEvolOptimizer
-Differential evolution based optimization by using self implemented code in python
+# Differential evolution based optimization
+Differential evolution based optimization code in Python
